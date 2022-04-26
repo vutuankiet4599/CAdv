@@ -1,0 +1,4 @@
+Voi 100000 phan tu:
+Thoi gian chay cua quicksort 3 way nhanh hon so voi quicksort 2 way.
+Quicksort 3 way ton khoang 0.007 giay.
+Quicksort 2 way ton khoang 2 giay.
